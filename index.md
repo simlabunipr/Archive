@@ -1,15 +1,22 @@
 ## SIMLAB
 
-## Laboratorio di simulazione del Dipartimento di Medicina e Chirurgia
+## Laboratorio di simulazione del Dipartimento di Medicina e Chirurgia 
+## Università degli Studi di Parma
 
 
-    Per info e contatti: giovanni.guareschi@unipr.it, tel. 0521 03
+    
+
+Per info e contatti: giovanni.guareschi@unipr.it, tel. 0521 03
                          maurizio.conca@unipr.it
                          federico.monaco@unipr.it  
+                         
+                         
+                                                
 
 Dove siamo
 
 La sede centrale del laboratorio è nel Padiglione 27 II piano del perimetro dellì'Ospedale Maggiore di Parma.
+
 
 Cosa facciamo
 
